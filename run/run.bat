@@ -1,0 +1,1 @@
+java -jar ReportBuilder-0.1.jar input.json
